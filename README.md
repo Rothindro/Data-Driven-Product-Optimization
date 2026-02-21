@@ -45,7 +45,8 @@ We have used [Simulated A/B Testing Dataset](https://www.kaggle.com/datasets/san
 --Sensitivity Analysis
 --__Decision Making__
 
-##__🛠️Tools & Technologies__
+### __🛠️Tools & Technologies__
+---
 -__Programming Language:__ Python
 -__Libraries:__ NumPy, Pandas, Seaborn, Matplotlib, Statsmodels
 -__Environment:__ Google Colab
