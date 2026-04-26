@@ -30,23 +30,23 @@ We have used [Simulated A/B Testing Dataset](https://www.kaggle.com/datasets/san
 
 ### __⚙️Methods__
 ---
--__Data Loading & Setup__
--__Data Cleaning & Preprocessing__
--__Experiment Context & Goal__
---Sample Ratio Mismatch (SRM) check
---Define hypotheses
---Compute the key metrics
---Confidence Interval (CI)
---Z-test
--__Robustness, Segmentation & Sensitivity Analysis__
---Guardrail Metrics (Engagement)
---Heterogeneous Treatment Effects (HTE)
---Temporal Robustness (Time-based Checks)
---Sensitivity Analysis
---__Decision Making__
+*   **Data Loading & Setup**
+*   **Data Cleaning & Preprocessing**
+*   **Experiment Context & Goal**
+  *Sample Ratio Mismatch (SRM) check
+  *Define hypotheses
+  *Compute the key metrics
+  *Confidence Interval (CI)
+  *Z-test
+*   **Robustness, Segmentation & Sensitivity Analysis**
+  *Guardrail Metrics (Engagement)
+  *Heterogeneous Treatment Effects (HTE)
+  *Temporal Robustness (Time-based Checks)
+  *Sensitivity Analysis
+*   **Decision Making**
 
 ### __🛠️Tools & Technologies__
 ---
--__Programming Language:__ Python
--__Libraries:__ NumPy, Pandas, Seaborn, Matplotlib, Statsmodels
--__Environment:__ Google Colab
+*   **Programming Language:** Python
+*   **Libraries:** NumPy, Pandas, Seaborn, Matplotlib, Statsmodels
+*   **Environment:** Google Colab
