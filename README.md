@@ -34,15 +34,15 @@ We have used [Simulated A/B Testing Dataset](https://www.kaggle.com/datasets/san
 *   **Data Cleaning & Preprocessing**
 *   **Experiment Context & Goal**
     *  Sample Ratio Mismatch (SRM) check
-  *Define hypotheses
-  *Compute the key metrics
-  *Confidence Interval (CI)
-  *Z-test
+    *  Define hypotheses
+    *  Compute the key metrics
+    *  Confidence Interval (CI)
+    *  Z-test
 *   **Robustness, Segmentation & Sensitivity Analysis**
-  *Guardrail Metrics (Engagement)
-  *Heterogeneous Treatment Effects (HTE)
-  *Temporal Robustness (Time-based Checks)
-  *Sensitivity Analysis
+    *  Guardrail Metrics (Engagement)
+    *  Heterogeneous Treatment Effects (HTE)
+    *  Temporal Robustness (Time-based Checks)
+    *  Sensitivity Analysis
 *   **Decision Making**
 
 ### __🛠️Tools & Technologies__
