@@ -33,7 +33,7 @@ We have used [Simulated A/B Testing Dataset](https://www.kaggle.com/datasets/san
 *   **Data Loading & Setup**
 *   **Data Cleaning & Preprocessing**
 *   **Experiment Context & Goal**
-  *    Sample Ratio Mismatch (SRM) check
+    **  Sample Ratio Mismatch (SRM) check
   *Define hypotheses
   *Compute the key metrics
   *Confidence Interval (CI)
